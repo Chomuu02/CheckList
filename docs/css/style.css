@@ -14,13 +14,13 @@
 th{
   border: 2px solid #000;
   padding: 20px;
-  /* width: 30%; */
+  width: 50%;
 }
 @media screen and (max-width:480px){
   th{
     border: 2px solid #000;
     padding: 20px;
-    width: 30%;
+    width: 50%;
   }
 }
 
