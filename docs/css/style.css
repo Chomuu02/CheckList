@@ -14,7 +14,7 @@
 th{
   border: 2px solid #000;
   padding: 20px;
-  width: 30%;
+  /* width: 30%; */
 }
 @media screen and (max-width:480px){
   th{
@@ -31,10 +31,12 @@ td {
   text-align: center;
 }
 @media screen and (max-width:480px){
-  border: 2px solid #000;
-  padding: 20px;
-  width: 10%;
-  text-align: center;
+  td {
+    border: 2px solid #000;
+    padding: 20px;
+    width: 10%;
+    text-align: center;
+  }
 }
 
 .iro{
